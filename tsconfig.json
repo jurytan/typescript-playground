@@ -1,8 +1,10 @@
+// This is how we provide options to our TypeScript compiler
 {
     "compilerOptions": {
       "target": "es2017",
       "module": "commonjs",
-      "strictNullChecks": true
+      "strictNullChecks": true,
+      "outDir": "dist"
     },
     "include": ["**/*.ts"]
   }
