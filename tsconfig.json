@@ -6,5 +6,5 @@
       "strictNullChecks": true,
       "outDir": "dist"
     },
-    "include": ["**/*.ts"]
+    "include": ["**/*.ts", "index-006.js"]
   }
