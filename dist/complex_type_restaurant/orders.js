@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.orders = exports.PriceBracket = void 0;
 var PriceBracket;
 (function (PriceBracket) {
     PriceBracket[PriceBracket["Low"] = 0] = "Low";

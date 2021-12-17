@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.restaurants = void 0;
 const orders_1 = require("./orders");
 exports.restaurants = [
     {
